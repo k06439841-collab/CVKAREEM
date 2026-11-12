@@ -1,0 +1,18 @@
+{
+  "name": "Kareem Hesham | Cinematic Portfolio",
+  "short_name": "Kareem Hesham",
+  "description": "Creative Front-End Developer — cinematic, futuristic web experiences.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

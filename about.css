@@ -1,0 +1,68 @@
+img{
+
+border-radius:20px;
+
+}
+
+/* =========================
+   MOBILE RESPONSIVE
+========================= */
+
+@media (max-width: 768px) {
+
+    .section {
+        padding: 120px 15px 60px;
+    }
+
+    .section-title {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .about-box {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        padding: 25px;
+        text-align: center;
+    }
+
+    .about-image img {
+        width: 100%;
+        max-width: 280px;
+        margin: auto;
+        display: block;
+        border-radius: 20px;
+    }
+
+    .about-content h3 {
+        font-size: 24px;
+    }
+
+    .about-content p {
+        font-size: 15px;
+        line-height: 1.8;
+    }
+
+    .btn-glow {
+        width: 100%;
+        padding: 14px;
+        font-size: 15px;
+    }
+
+    .navbar-brand .k-text {
+        font-size: 14px;
+    }
+
+    .nav-link {
+        text-align: center;
+        margin: 10px 0;
+    }
+
+    footer {
+        font-size: 13px;
+        padding: 20px 10px;
+        text-align: center;
+    }
+
+}
